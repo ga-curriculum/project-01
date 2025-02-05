@@ -97,21 +97,6 @@ As an example :
 
 ```
 
-### Presentation requirements - XXX, XXX xxth, xxxx
-
-You will have 12 minutes to present and demonstrate the following:
-
-- Introduce your project by paraphrasing its `README.md`.
-- Share ERD class diagram.
-- Share project workflow.
-- Demonstrate your app's main features.
-- Share/discuss the following code.
-
-Share the experience by answering the following:
-
-- What was your biggest challenge?
-- What are your key learnings/takeaways?
-- Following your presentation, there may be a brief Q & A period and optional instructor feedback.
 
 ### Version control requirements
 
